@@ -15,7 +15,7 @@ title: Home
         professional, Hacker101 has something to teach you.
       </p>
       <a class="btn btn-primary" href="/start-here">
-        Start Hacking!
+        Start hacking!
       </a>
     </div>
     <div class="col-md-5 offset-md-1 py-4">
@@ -34,7 +34,7 @@ title: Home
         <p class="lead my-3">
           Put your skills into practice with CTF levels inspired by the real world
         </p>
-        <a href="https://ctf.hacker101.com/" class="btn btn-outline-secondary">
+        <a href="https://ctf.hacker101.com/" target="_blank" class="btn btn-outline-secondary">
           Check out CTF
         </a>
       </div>

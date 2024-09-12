@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Video Lessons
+video_src: https://www.youtube-nocookie.com/embed/FTeE3OrTNoA
 sidebar:
   - title: "Learning Tracks"
     links:
@@ -14,13 +15,15 @@ sidebar:
         url: /playlists/web_hacking
       - text: "Mentorship Mondays"
         url: /playlists/mentorshipmondays
-        updated: true
       - text: "Mobile Hacking"
         url: /playlists/mobile_hacking
-      - text: "H@cktivitycon"
+        updated: true
+      - text: "h@cktivitycon"
         url: /playlists/hacktivitycon
       - text: "Cryptography"
         url: /playlists/cryptography
+      - text: "Miscellaneous"
+        url: /playlists/misc
   - title: "Hacker101's Picks"
     links:
       - text: "A Starter's Guide to Pentesting with OWASP"
@@ -31,11 +34,11 @@ sidebar:
         url: /sessions/ssrf
       - text: "Mobile Hacking Crash Course"
         url: /sessions/mobile_crash_course
-      - text: Introduction to Docker Hacking 
+      - text: Introduction to Docker Hacking
         url: /sessions/docker_hacking
 ---
 
-These videos will help you learn a diverse set of topics. If you want to see specifics of what a session covers, simply click its title.
+Explore the "Learning Tracks" section on this page to dive deep into various topics. Within these tracks, you'll find instructional videos aimed to broaden your hacker skill set. For detailed insights into the content of each session, click on its respective title and get started.
 
 <a class="btn btn-primary" href="/start-here">
   Not sure where to start? Click here!
@@ -43,4 +46,3 @@ These videos will help you learn a diverse set of topics. If you want to see spe
 
 ## Featured Lesson
 Check out [JavaScript for Hackers by STÖK](/sessions/javascript_for_hackers)!
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/FTeE3OrTNoA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
